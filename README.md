@@ -1,4 +1,4 @@
-<h1 align="center">JavaScript Counter</h1>
+<h1 align="center">Counter App</h1>
 
 <p align="center">
   <img src="screenshot.png" alt="Counter Screenshot">
